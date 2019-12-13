@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link href="style.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Julius+Sans+One&display=swap" rel="Stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Kalam&display=swap" rel="stylesheet">
+  </head>
+  <body id="body">
+    <main id="container">
+      <div class="space" id="a"</div>
+      <div class="space" id="b"</div>
+      <div class="space" id="c"</div>
+      <div class="space" id="d"</div>
+      <div class="space" id="e"</div>
+      <div class="space" id="f"</div>
+      <div class="space" id="g"</div>
+      <div class="space" id="h"</div>
+      <div class="space" id="i"</div>
+      <div class="space" id="j"</div>
+      <div class="space" id="1"</div>
+      <div class="space" id="2"</div>
+      <div class="space" id="3"</div>
+      <div class="space" id="4"</div>
+      <div class="space" id="5"</div>
+      <div class="space" id="6"</div>
+      <div class="space" id="7"</div>
+      <div class="space" id="8"</div>
+      <div class="space" id="9"</div>
+      <div class="space" id="10"</div>
+      <div class="space" id="a1"></div>
+      <div class="space" id="a2"></div>
+      <div class="space" id="a3"></div>
+      <div class="space" id="a4"></div>
+      <div class="space" id="a5"></div>
+      <div class="space" id="a6"></div>
+      <div class="space" id="a7"></div>
+      <div class="space" id="a8"></div>
+      <div class="space" id="a9"></div>
+      <div class="space" id="a0"></div>
+      <div class="space" id="b1"></div>
+      <div class="space" id="b2"></div>
+      <div class="space" id="b3"></div>
+      <div class="space" id="b4"></div>
+      <div class="space" id="b5"></div>
+      <div class="space" id="b6"></div>
+      <div class="space" id="b7"></div>
+      <div class="space" id="b8"></div>
+      <div class="space" id="b9"></div>
+      <div class="space" id="b0"></div>
+      <div class="space" id="c1"></div>
+      <div class="space" id="c2"></div>
+      <div class="space" id="c3"></div>
+      <div class="space" id="c4"></div>
+      <div class="space" id="c5"></div>
+      <div class="space" id="c6"></div>
+      <div class="space" id="c7"></div>
+      <div class="space" id="c8"></div>
+      <div class="space" id="c9"></div>
+      <div class="space" id="c0"></div>
+      <div class="space" id="d1"></div>
+      <div class="space" id="d2"></div>
+      <div class="space" id="d3"></div>
+      <div class="space" id="d4"></div>
+      <div class="space" id="d5"></div>
+      <div class="space" id="d6"></div>
+      <div class="space" id="d7"></div>
+      <div class="space" id="d8"></div>
+      <div class="space" id="d9"></div>
+      <div class="space" id="d0"></div>
+      <div class="space" id="e1"></div>
+      <div class="space" id="e2"></div>
+      <div class="space" id="e3"></div>
+      <div class="space" id="e4"></div>
+      <div class="space" id="e5"></div>
+      <div class="space" id="e6"></div>
+      <div class="space" id="e7"></div>
+      <div class="space" id="e8"></div>
+      <div class="space" id="e9"></div>
+      <div class="space" id="e0"></div>
+      <div class="space" id="f1"></div>
+      <div class="space" id="f2"></div>
+      <div class="space" id="f3"></div>
+      <div class="space" id="f4"></div>
+      <div class="space" id="f5"></div>
+      <div class="space" id="f6"></div>
+      <div class="space" id="f7"></div>
+      <div class="space" id="f8"></div>
+      <div class="space" id="f9"></div>
+      <div class="space" id="f0"></div>
+      <div class="space" id="g1"></div>
+      <div class="space" id="g2"></div>
+      <div class="space" id="g3"></div>
+      <div class="space" id="g4"></div>
+      <div class="space" id="g5"></div>
+      <div class="space" id="g6"></div>
+      <div class="space" id="g7"></div>
+      <div class="space" id="g8"></div>
+      <div class="space" id="g9"></div>
+      <div class="space" id="g0"></div>
+      <div class="space" id="h1"></div>
+      <div class="space" id="h2"></div>
+      <div class="space" id="h3"></div>
+      <div class="space" id="h4"></div>
+      <div class="space" id="h5"></div>
+      <div class="space" id="h6"></div>
+      <div class="space" id="h7"></div>
+      <div class="space" id="h8"></div>
+      <div class="space" id="h9"></div>
+      <div class="space" id="h0"></div>
+      <div class="space" id="i1"></div>
+      <div class="space" id="i2"></div>
+      <div class="space" id="i3"></div>
+      <div class="space" id="i4"></div>
+      <div class="space" id="i5"></div>
+      <div class="space" id="i6"></div>
+      <div class="space" id="i7"></div>
+      <div class="space" id="i8"></div>
+      <div class="space" id="i9"></div>
+      <div class="space" id="i0"></div>
+      <div class="space" id="j1"></div>
+      <div class="space" id="j2"></div>
+      <div class="space" id="j3"></div>
+      <div class="space" id="j4"></div>
+      <div class="space" id="j5"></div>
+      <div class="space" id="j6"></div>
+      <div class="space" id="j7"></div>
+      <div class="space" id="j8"></div>
+      <div class="space" id="j9"></div>
+      <div class="space" id="j0"></div>
+      <div id="menuOpenHeader">
+	<div id="menuOpen" >Menu</div>
+      </div>
+    </main>
+    <div id="menu" class="menu">
+      <button class="menuBtn" id="markerOpen" name="markerOpen" value="">Markers</button>
+      <button class="menuBtn" id="fill" name="fill" value="">Check All</button>
+      <h1 class="menuBtn" id="menuTitle">Terrain Menu</h1>
+      <button class="menuBtn" id="invert" name="invert" value="">Swap Checks</button>
+      <button class="menuBtn" id="close" name="close" value="">Close</button>
+      <br>
+      <input class="tile" type="checkbox" name="a1" value=""></input>
+      <input class="tile" type="checkbox" name="a2" value=""></input>
+      <input class="tile" type="checkbox" name="a3" value=""></input>
+      <input class="tile" type="checkbox" name="a4" value=""></input>
+      <input class="tile" type="checkbox" name="a5" value=""></input>
+      <input class="tile" type="checkbox" name="a6" value=""></input>
+      <input class="tile" type="checkbox" name="a7" value=""></input>
+      <input class="tile" type="checkbox" name="a8" value=""></input>
+      <input class="tile" type="checkbox" name="a9" value=""></input>
+      <input class="tile" type="checkbox" name="a0" value=""></input>
+      <br>
+      <input class="tile" type="checkbox" name="b1" value=""></input>
+      <input class="tile" type="checkbox" name="b2" value=""></input>
+      <input class="tile" type="checkbox" name="b3" value=""></input>
+      <input class="tile" type="checkbox" name="b4" value=""></input>
+      <input class="tile" type="checkbox" name="b5" value=""></input>
+      <input class="tile" type="checkbox" name="b6" value=""></input>
+      <input class="tile" type="checkbox" name="b7" value=""></input>
+      <input class="tile" type="checkbox" name="b8" value=""></input>
+      <input class="tile" type="checkbox" name="b9" value=""></input>
+      <input class="tile" type="checkbox" name="b0" value=""></input>
+      <br>
+      <input class="tile" type="checkbox" name="c1" value=""></input>
+      <input class="tile" type="checkbox" name="c2" value=""></input>
+      <input class="tile" type="checkbox" name="c3" value=""></input>
+      <input class="tile" type="checkbox" name="c4" value=""></input>
+      <input class="tile" type="checkbox" name="c5" value=""></input>
+      <input class="tile" type="checkbox" name="c6" value=""></input>
+      <input class="tile" type="checkbox" name="c7" value=""></input>
+      <input class="tile" type="checkbox" name="c8" value=""></input>
+      <input class="tile" type="checkbox" name="c9" value=""></input>
+      <input class="tile" type="checkbox" name="c0" value=""></input>
+      <br>
+      <input class="tile" type="checkbox" name="d1" value=""></input>
+      <input class="tile" type="checkbox" name="d2" value=""></input>
+      <input class="tile" type="checkbox" name="d3" value=""></input>
+      <input class="tile" type="checkbox" name="d4" value=""></input>
+      <input class="tile" type="checkbox" name="d5" value=""></input>
+      <input class="tile" type="checkbox" name="d6" value=""></input>
+      <input class="tile" type="checkbox" name="d7" value=""></input>
+      <input class="tile" type="checkbox" name="d8" value=""></input>
+      <input class="tile" type="checkbox" name="d9" value=""></input>
+      <input class="tile" type="checkbox" name="d0" value=""></input>
+      <br>
+      <input class="tile" type="checkbox" name="e1" value=""></input>
+      <input class="tile" type="checkbox" name="e2" value=""></input>
+      <input class="tile" type="checkbox" name="e3" value=""></input>
+      <input class="tile" type="checkbox" name="e4" value=""></input>
+      <input class="tile" type="checkbox" name="e5" value=""></input>
+      <input class="tile" type="checkbox" name="e6" value=""></input>
+      <input class="tile" type="checkbox" name="e7" value=""></input>
+      <input class="tile" type="checkbox" name="e8" value=""></input>
+      <input class="tile" type="checkbox" name="e9" value=""></input>
+      <input class="tile" type="checkbox" name="e0" value=""></input>
+      <br>
+      <input class="tile" type="checkbox" name="f1" value=""></input>
+      <input class="tile" type="checkbox" name="f2" value=""></input>
+      <input class="tile" type="checkbox" name="f3" value=""></input>
+      <input class="tile" type="checkbox" name="f4" value=""></input>
+      <input class="tile" type="checkbox" name="f5" value=""></input>
+      <input class="tile" type="checkbox" name="f6" value=""></input>
+      <input class="tile" type="checkbox" name="f7" value=""></input>
+      <input class="tile" type="checkbox" name="f8" value=""></input>
+      <input class="tile" type="checkbox" name="f9" value=""></input>
+      <input class="tile" type="checkbox" name="f0" value=""></input>
+      <br>
+      <input class="tile" type="checkbox" name="g1" value=""></input>
+      <input class="tile" type="checkbox" name="g2" value=""></input>
+      <input class="tile" type="checkbox" name="g3" value=""></input>
+      <input class="tile" type="checkbox" name="g4" value=""></input>
+      <input class="tile" type="checkbox" name="g5" value=""></input>
+      <input class="tile" type="checkbox" name="g6" value=""></input>
+      <input class="tile" type="checkbox" name="g7" value=""></input>
+      <input class="tile" type="checkbox" name="g8" value=""></input>
+      <input class="tile" type="checkbox" name="g9" value=""></input>
+      <input class="tile" type="checkbox" name="g0" value=""></input>
+      <br>
+      <input class="tile" type="checkbox" name="h1" value=""></input>
+      <input class="tile" type="checkbox" name="h2" value=""></input>
+      <input class="tile" type="checkbox" name="h3" value=""></input>
+      <input class="tile" type="checkbox" name="h4" value=""></input>
+      <input class="tile" type="checkbox" name="h5" value=""></input>
+      <input class="tile" type="checkbox" name="h6" value=""></input>
+      <input class="tile" type="checkbox" name="h7" value=""></input>
+      <input class="tile" type="checkbox" name="h8" value=""></input>
+      <input class="tile" type="checkbox" name="h9" value=""></input>
+      <input class="tile" type="checkbox" name="h0" value=""></input>
+      <br>
+      <input class="tile" type="checkbox" name="i1" value=""></input>
+      <input class="tile" type="checkbox" name="i2" value=""></input>
+      <input class="tile" type="checkbox" name="i3" value=""></input>
+      <input class="tile" type="checkbox" name="i4" value=""></input>
+      <input class="tile" type="checkbox" name="i5" value=""></input>
+      <input class="tile" type="checkbox" name="i6" value=""></input>
+      <input class="tile" type="checkbox" name="i7" value=""></input>
+      <input class="tile" type="checkbox" name="i8" value=""></input>
+      <input class="tile" type="checkbox" name="i9" value=""></input>
+      <input class="tile" type="checkbox" name="i0" value=""></input>
+      <br>
+      <input class="tile" type="checkbox" name="j1" value=""></input>
+      <input class="tile" type="checkbox" name="j2" value=""></input>
+      <input class="tile" type="checkbox" name="j3" value=""></input>
+      <input class="tile" type="checkbox" name="j4" value=""></input>
+      <input class="tile" type="checkbox" name="j5" value=""></input>
+      <input class="tile" type="checkbox" name="j6" value=""></input>
+      <input class="tile" type="checkbox" name="j7" value=""></input>
+      <input class="tile" type="checkbox" name="j8" value=""></input>
+      <input class="tile" type="checkbox" name="j9" value=""></input>
+      <input class="tile" type="checkbox" name="j0" value=""></input>
+      <div id="selector">
+	<button class="selecto" id="swamp"  name="swamp" value="grey">Swamp</button>
+	<button class="selecto" id="desert"  name="desert" value="yellow">Desert</button>
+	<button class="selecto" id="clear" name="clear" value="white">Clear</button>
+	<button class="selecto" id="barren"  name="barren" value="brown">Barren</button>
+	<button class="selecto" id="grassland"  name="grassland" value="green">Grassland</button>
+	<button class="selecto" id="water" name="water" value="blue">Water</button>
+	<button class="selecto" id="trail"  name="trail" value="beige">Trail</button>
+	<button class="selecto" id="forest"  name="forest" value="teal">Forest</button>
+	<button class="selecto" id="mountains" name="mountains" value="olive">Mountains</button>
+      </div>
+      <div id="selectas">
+	<button class="selecta" id="hero"  name="hero" value="0">O</button>
+	<button class="selecta" id="enemy"  name="enemy" value="X">X</button>
+	<button class="selecta" id="npc" name="npc" value="=">=</button>
+	<button class="selecta" id="ll"  name="Lower Left" value="&#9625">&#9625</button>
+     	<button class="selecta" id="lr"  name="Lower Right" value="&#9631">&#9631</button>
+     	<button class="selecta" id="town"  name="town" value="|^|">|^|</button>
+     	<button class="selecta" id="ul"  name="Upper Left" value="&#9627">&#9627</button>
+	<button class="selecta" id="ur"  name="Upper Right" value="&#9628">&#9628</button>
+     <button class="selecta" id="u"  name="Upper" value="&#9600">&#9600</button>
+     <button class="selecta" id="r"  name="Right" value="&#9616">&#9616</button>
+     <button class="selecta" id="l"  name="Left" value="&#9612">&#9612</button>
+     <button class="selecta" id="d"  name="Lower" value="&#9604">&#9604</button>
+     <button class="selecta" id="L"  name="Light Shade" value="&#9617">&#9617</button>
+     <button class="selecta" id="M"  name="Medium Shade" value="&#9618">&#9618</button>
+     <button class="selecta" id="D"  name="Dark Shade" value="&#9619">&#9619</button>
+     
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

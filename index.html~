@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <main id="container">
+      <div id="a1">1</div>
+      <div id="a2">2</div>
+      <div id="a3">3</div>
+      <div id="a4">4</div>
+      <div id="b1">1</div>
+      <div id="b2">2</div>
+      <div id="b3">3</div>
+      <div id="b4">4</div>
+      <div id="c1">1</div>
+      <div id="c2">2</div>
+      <div id="c3">3</div>
+      <div id="c4">4</div>
+      <div id="d1">1</div>
+      <div id="d2">2</div>
+      <div id="d3">3</div>
+      <div id="d4">4</div>
+    </main>
+  </body>
+</html>
+      
