@@ -2,6 +2,12 @@ var menu =  document.getElementById("menu");
 var tile = document.getElementsByClassName("tile");
 var multiCheck = document.getElementsByClassName("btn");
 var spaces = document.getElementsByClassName("space");
+var selecting = document.getElementsByClassName("selecto");
+
+for (var r =0; r<selecting.length; r++) {
+    var s = selecting[r].getAttribute("value");
+    selecting[r].style.backgroundColor = s;
+}
 
 for (z = 0; z<multiCheck.length;z++) {
     multiCheck[z].addEventListener("click",function() {checkLine(this);})

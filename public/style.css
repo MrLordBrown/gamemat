@@ -32,6 +32,7 @@
     align-content: space-between;
     justify-content: space-between;
     flex-wrap: wrap;
+    height: auto;
 }
 
 .space {
@@ -456,6 +457,7 @@ h1 {
 
 button, .btn  {
     cursor: pointer;
+    font-size: 2vh; 
     font-family: "Julius Sans One", sans-serif;
     border: 1px solid #9c7056;
     border-radius: 2px;
@@ -465,7 +467,8 @@ button, .btn  {
 }
 
 .menuBtn {
-    flex-basis: 20%
+    flex-basis: 20%;
+		    flex-shrink: .1;
 }
 
 .btn  {
@@ -483,7 +486,8 @@ button, .btn  {
 
 
 h1 {
-    flex-basis: 60%;
+    flex-basis: 20%;
+    flex-shrink: .2;
 }
 
 .menu {
@@ -501,15 +505,35 @@ h1 {
 }
 
 
-.selecto, selecta {
-    flex-basis: 50%;
+.selecto {
+    margin: 1vw;
+    align-self: center;
+    flex-basis: 10%;
+    flex-wrap: wrap;
+    width: 10w;
+    height: 10vh;
+    border-radius: 50%;
 }
+
+.selecta {
+    align-self: space-between;
+    flex-basis: 5%;
+    flex-wrap: wrap;
+    width: 8vw;
+    height: 8vh;
+}
+
+.selecto {
+    font-size: 3vh;}
+.selecta {
+    font-size: 3vh;}
 
 #selector, #selectas {
     display: flex;
-    justify-content:  center;
-    justify-items: stretch;
-    align-items: stretch;
+    width: 80vw;
+    height:10vh;
+    justify-content:  stretch;
+    align-items: center;
     align-content: center;
 }
 
@@ -535,7 +559,7 @@ h1 {
     opacity: .8;
     z-index: 20;
     background-color: #85987c;
-    border: 2px solid black;
+    border: 2px solid #6a878d;
     text-align: center;
     align-self: center;
     justify-self: center;
